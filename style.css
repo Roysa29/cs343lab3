@@ -1,11 +1,12 @@
 body {
     background-color: lightblue;
+    text-align:center;
   }
   
 .wrap {
   width:1000px;
   margin: auto;
-  margin-top:100px;
+  margin-top:50px;
 }
 .card{
   width:280px;
